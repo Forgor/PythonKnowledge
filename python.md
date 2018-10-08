@@ -25,7 +25,7 @@ ___
 **
 **cas**
 
-<p>   use the code `print()` </P>
+<p>   use the code <code>print()</code> </P>
 
 
 
